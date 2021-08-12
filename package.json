@@ -1,0 +1,26 @@
+{
+  "name": "mypackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feridHelali/bootcamp_mean_2021.git"
+  },
+  "author": "Ferid HELALI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feridHelali/bootcamp_mean_2021/issues"
+  },
+  "homepage": "https://github.com/feridHelali/bootcamp_mean_2021#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0",
+    "loadash": "^1.0.0"
+  }
+}
